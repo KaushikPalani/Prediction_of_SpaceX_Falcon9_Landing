@@ -2,7 +2,7 @@
 
 Space X is evolving to be the most successful company in the technology of reusing the rockets and therby reducing the cost. This capstone project tries to predict the landing of falcon 9 reusable rocket without rocket science and just based on available data and Machine learning.   
 
-The project involves understanding data collection, pre-processing and engineering and the application of ML. 
+The project involves understanding data collection, pre-processing and engineering and the application of ML. All the processes are performed on **IBM Watson studio cloud platform and IBM Db2 SQL cloud database**.
 
 This includes
  - Data Collection through API
