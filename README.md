@@ -1,5 +1,5 @@
  
-# Predicting the success of SpaceX Falcon 9 rocket landing using Machine learning and Data Science 
+# Predicting the success of SpaceX Falcon 9 rocket landing using Machine learning and Data Science - Capstone
 
 Space X is evolving to be the most successful company in the technology of reusing the rockets and therby reducing the cost. This capstone project tries to predict the landing of falcon 9 reusable rocket without rocket science and just based on available data and Machine learning.   
 
